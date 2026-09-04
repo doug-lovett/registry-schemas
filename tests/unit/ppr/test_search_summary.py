@@ -59,6 +59,8 @@ TEST_DATA_REG_TYPE = [
     ('TM', True),
     ('WL', True),
     ('SE', True),
+    ('EH', True),
+    ('RP', True),
     ('XX', False),
 ]
 

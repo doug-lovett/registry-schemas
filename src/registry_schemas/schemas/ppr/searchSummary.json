@@ -28,8 +28,9 @@
                 "registrationType": {
                     "type": "string",
                     "maxLength": 2,
-                    "enum": ["SA", "RL", "FR", "LT", "MH", "SG", "FL", "FA", "FS", "MR", "CC", "CT", "DP", "ET", "FO", "FT", "HR", "IP", "LO", "MI", "OT"
-                        , "PG", "PS", "IT", "RA", "SS", "TL", "HN", "ML", "MN", "PN", "WL", "TF", "TA", "TG", "TM", "MD", "PT", "SC", "TO", "SV", "SE", "CL"],
+                    "enum": ["SA", "RL", "FR", "LT", "MH", "SG", "FL", "FA", "FS", "MR", "CC", "CT", "DP", "ET", "FO", "FT", "HR", "IP", "LO", "MI", "OT",
+                             "PG", "PS", "IT", "RA", "SS", "TL", "HN", "ML", "MN", "PN", "WL", "TF", "TA", "TG", "TM", "MD", "PT", "SC", "TO", "SV",
+                             "SE", "CL", "EH", "RP"],
                     "description": "Specifies the type of Financing Statement. Includes all legacy registration types."
                 },
                 "debtor": {
